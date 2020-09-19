@@ -46,4 +46,3 @@ out/
 !**/src/main/**
 !**/src/test/**
 *src
-*.idea
